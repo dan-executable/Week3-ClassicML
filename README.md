@@ -14,6 +14,10 @@ The main goal of this assignment is to advance your comprehension of audio data 
 
 **Submission in Canvas:** 1) your GitHub account name and a link to your forked and changed repository, and 2) Upload your report on canvas in PDF format.
 
+### Notebook kernel
+
+The notebook is configured for the project kernel **Python (Week3 ClassicML)**, which uses `.venv\Scripts\python.exe` and includes `librosa`. If VS Code is already using another kernel, use **Select Kernel** in the notebook toolbar to choose **Python (Week3 ClassicML)**, then restart the kernel and run the notebook from the top.
+
  
 
 P.S.: Even if you fail to finalize the assignment, write down steps you took, issues you encountered and how you tried to solve them!
